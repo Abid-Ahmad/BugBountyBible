@@ -1,8 +1,10 @@
----
-description: ./About ./Intro
----
+# ReadMe - Introduction
 
-# ReadMe
+## &#x20;                                              <mark style="color:red;background-color:red;">Bug Bounty Bible</mark>
+
+### &#x20;                                                          ./by <mark style="color:green;background-color:green;">Abid Ahmad</mark>
+
+**./About**
 
 "Bug Bounty Bible" is the ultimate guide for anyone interested in exploring the exciting world of bug bounty programs. This comprehensive book covers everything from the basics of bug hunting to advanced techniques and strategies for success. Whether you're just starting out or you're an experienced bug hunter, "Bug Bounty Bible" provides valuable insights and practical advice that will help you find and report software vulnerabilities and earn rewards.
 
