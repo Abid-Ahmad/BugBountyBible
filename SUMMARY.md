@@ -2,10 +2,11 @@
 
 * [ReadMe - Introduction](README.md)
 
-## Group 1
+## Web Vuln & Attack Methodology
 
-* [Web Vuln & Attacks](group-1/web-vuln-and-attacks.md)
-* [Page 3](group-1/page-3.md)
+* [Web Vuln & Attacks](web-vuln-and-attack-methodology/web-vuln-and-attacks.md)
+* [Page 3](web-vuln-and-attack-methodology/page-3.md)
+* [Page 1](web-vuln-and-attack-methodology/page-1.md)
 
 ## Group 2
 
